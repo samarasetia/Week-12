@@ -1,2 +1,2 @@
 # Week-12
-Week 12 Prototype
+Mood Melody is a simple yet engaging Python-based quiz that analyses a user’s mood and song preferences to recommend suitable music.
